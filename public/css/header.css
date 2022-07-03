@@ -1,0 +1,24 @@
+
+header{
+    background-color:  #EAC926;
+    font-family:'Roboto' ;
+}
+
+
+.barra_debusqueda{
+background-color: #ebebeb;
+};
+.barra_denavegacion ul li{
+    display: inline;
+    font-family: 'Roboto';
+    font-size: 16px;
+    list-style:none;
+   
+};
+.burger-menu div{
+    display: center
+;
+    background-color:  #1259c3;;
+    width: 15px;
+    height: 15px;
+};
